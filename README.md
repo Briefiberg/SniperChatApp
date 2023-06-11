@@ -14,4 +14,4 @@ To Chat You Will Have To Type Numbers To Talk
 ### 7 i like ur projects!
 ### 8 Thx
 ### 9 wanna play agario?
-[Download Here]([https://github.com/Briefiberg/SniperChat/releases/download/Versions/SniperChatSetup.exe])
+[Download Here](https://github.com/Briefiberg/SniperChat/releases/download/Versions/SniperChatSetup.exe)
